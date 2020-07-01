@@ -36,7 +36,7 @@ async function cardLookup() {
   const nameelement: HTMLInputElement | any = document.getElementById("name");
   const name: string = nameelement.value;
   const nameQuery: string = name.replace(/\s/g, "_");
-  const setelement: HTMLInputElement | any = document.getElementById("set")
+  const setelement: HTMLInputElement | any = document.getElementById("set");
   const set: string = setelement.value;
   const setQuery: string = set.replace(/\s/g, "_");
 
