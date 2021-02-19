@@ -7,7 +7,7 @@ This webpage uses the [Magic: The Gathering API](https://docs.magicthegathering.
 
 ## Live Version
 
-This page is currently deployed. [View the live website.](https://www.nhcarrigan.com/mtg-search)
+This project is archived and thus is not deployed.
 
 ## Feedback and Bugs
 
